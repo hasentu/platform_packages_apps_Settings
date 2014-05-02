@@ -51,26 +51,26 @@
     <string name="header_category_ffffuuuuuu">FFFFUUUUUU</string>
     <!-- Settings main menu item name -->
     <!-- 设置主界面的条目名称 -->
-    <string name="system_settings_title">康忙 變態吧！</string>
+    <string name="system_settings_title">肥蛋 變態吧！</string>
     <!-- PreferenceScreen title -->
     <!-- 条目内显示的主标题 -->
-    <string name="system_interface_title">康忙 變態吧！</string>
+    <string name="system_interface_title">肥蛋 變態吧！</string>
 
     <!-- Navigation bar -->
     <!-- 导航栏设置 -->
     <string name="navigation_bar_category_title">導航列設定</string>
-    <!-- Navigation bar buttons customization -->
-    <!-- 个性化导航栏按键 -->
-    <string name="navigation_bar_customization_title">導航列按鍵</string>
-    <string name="navigation_bar_help_text">1 - 點選小鎖圖示以開始編輯按鍵佈局\n\n2 - 點選任意按鍵以指定或更改其功能\n\n3 - 長按任何按鍵以重新排列按鍵順序\n\n4 - 再次點擊小鎖圖示以保存按鍵佈局\n\n5 - 點擊重置按鍵以恢復系統默認設定\n\n</string>
-    <string name="navigation_bar_tips">\u2022 操作一次只能分配一個按鍵\n\n\u2022 主頁鍵不可重新分配\n\n\u2022 側邊按鍵不可重新排列</string>
-    <string name="navigation_bar_tips_title">快捷小貼士</string>
-    <string name="navigation_bar_reset_message">刪除當前設定並恢復至默認?</string>
-    <string name="navigation_bar_save_message">導航列設定已保存</string>
-    <string name="navigation_bar_reset_toast">導航列已恢復至默認</string>
-    <string name="navigation_bar_menu_editable">可編輯</string>
-    <string name="navigation_bar_menu_locked">已鎖定</string>
-
+    <!-- Navigation bar height customization -->
+    <!-- 导航栏高度自定义 -->
+    <string name="navigation_bar_height">高度</string>
+    <string name="navigation_bar_height_48">48dp (默認)</string>
+    <string name="navigation_bar_height_44">44dp</string>
+    <string name="navigation_bar_height_40">40dp</string>
+    <string name="navigation_bar_height_36">36dp</string>
+    <string name="navigation_bar_height_32">32dp</string>
+    <string name="navigation_bar_height_28">28dp</string>
+    <string name="navigation_bar_height_24">24dp</string>
+    <string name="navigation_bar_height_20">20dp</string>
+    <string name="navigation_bar_height_0">0dp (隱藏)</string>
     <!-- Navigation ring targets customization -->
     <!-- 个性化导航圈目标 -->
     <string name="navigation_ring_title">導航環</string>
@@ -228,13 +228,13 @@
     <string name="icon_picker_sms">簡訊</string>
     <string name="icon_picker_twitter">推特</string>
 
-    <!-- LED customization category header -->
-    <!-- LED个性化分类抬头 -->
-    <string name="notification_led_category_title">LED 通知燈</string>
-
-    <!-- LED customization dialogs -->
-    <!-- LED个性化选单 -->
-    <string name="edit_light_settings">LED 設定</string>
+    <!-- Notification -->
+    <!-- 通知设置 -->
+    <string name="notification_settings_category_title">通知設定</string>
+    <!-- LED customization -->
+    <!-- LED个性化 -->
+    <string name="notification_led_settings_title">LED 通知燈</string>
+    <string name="edit_light_settings">LED設定</string>
     <string name="pulse_speed_title">脈衝長度和速度</string>
     <string name="default_time">正常</string>
     <string name="custom_time">自定義</string>
@@ -243,7 +243,6 @@
     <string name="dialog_delete_message">移除所選項目？</string>
     <string name="dialog_test_message">關閉螢幕以測試所選的自定義通知燈或者關閉此對話框以停止測試</string>
     <string name="dialog_test_button">關閉</string>
-
     <!-- LED settings screen -->
     <!-- LED设置界面 -->
     <string name="notification_light_general_title">常規</string>
@@ -257,7 +256,6 @@
     <string name="notification_light_voicemail_title">語音信箱</string>
     <string name="notification_light_choose_app">選擇應用</string>
     <string name="notification_light_add">添加</string>
-
     <!-- Values for LED pulse spinners -->
     <!-- LED闪烁调节的值 -->
     <string name="pulse_length_always_on">常亮</string>
@@ -271,6 +269,11 @@
     <string name="pulse_speed_normal">正常</string>
     <string name="pulse_speed_slow">慢</string>
     <string name="pulse_speed_very_slow">極慢</string>
+
+    <!-- Peek -->
+    <!-- Peek -->
+    <string name="notification_peek_title">Peek</string>
+    <string name="notification_peek_summary">拿起或掏出你的Nexus時顯示最新通知</string>
 
     <!-- Recent panel -->
     <!-- 最近应用面板 -->
@@ -325,4 +328,17 @@
     <string name="ffffuuuuuu_build_date">FFFFUUUUUU 生產日期</string>
     <string name="ffffuuuuuu_build_date_default">1992-08-16-love</string>
 
+    <!-- Low battery indicator -->
+    <!-- 低电量提示 -->
+    <string name="battery_prefs_title">選項</string>
+    <string name="battery_stats_title">數據</string>
+    <string name="pref_low_battery_warning_policy_title">低電量警告</string>
+    <string name="pref_low_battery_warning_policy_dialog_title">低電量的警告形式爲</string>
+    <string name="low_battery_warning_policy_popup_sound">彈窗 + 提示音</string>
+    <string name="low_battery_warning_policy_notif_sound">通知 + 提示音</string>
+    <string name="low_battery_warning_policy_popup">僅彈窗</string>
+    <string name="low_battery_warning_policy_notif">僅通知</string>
+    <string name="low_battery_warning_policy_sound">僅提示音</string>
+    <string name="low_battery_warning_policy_nothing">噓..表跟我說</string>	
+	
 </resources>
