@@ -58,11 +58,11 @@
 
     <!-- Navigation bar -->
     <!-- 导航栏设置 -->
-    <string name="navigation_bar_category_title">導航列設定</string>
+    <string name="navigation_bar_category_title">導覽列設定</string>
     <!-- Navigation bar height customization -->
     <!-- 导航栏高度自定义 -->
     <string name="navigation_bar_height">高度</string>
-    <string name="navigation_bar_height_48">48dp (默認)</string>
+    <string name="navigation_bar_height_48">48dp (預設)</string>
     <string name="navigation_bar_height_44">44dp</string>
     <string name="navigation_bar_height_40">40dp</string>
     <string name="navigation_bar_height_36">36dp</string>
@@ -74,16 +74,16 @@
     <!-- Navigation ring targets customization -->
     <!-- 个性化导航圈目标 -->
     <string name="navigation_ring_title">導航環</string>
-    <string name="navring_target_reset_message">刪除全部用戶快速啟動的快捷方式並恢復至默認?</string>
-    <string name="navring_target_reset">快速啟動快捷方式恢復至默認</string>
+    <string name="navring_target_reset_message">刪除全部使用者快速啟動的捷徑並還原至預設值？</string>
+    <string name="navring_target_reset">快速啟動快捷方式還原至預設值</string>
     <string name="navring_action_open_ime_switcher">打開輸入法轉換器</string>
-    <string name="navring_action_kill_app">清除應用</string>
+    <string name="navring_action_kill_app">清除應用程式</string>
     <string name="navring_action_none">無</string>
     <string name="navring_action_take_screenshot">螢幕擷取</string>
     <string name="navring_action_ring_vibrate">鈴聲/震動</string>
     <string name="navring_action_ring_silent">鈴聲/靜音</string>
     <string name="navring_action_ring_vibrate_silent">鈴聲/震動/靜音</string>
-    <string name="navring_action_screen_off">鎖屏</string>
+    <string name="navring_action_screen_off">鎖定畫面</string>
     <string name="navring_action_google_now">Google 即時</string>
     <string name="navring_action_power_menu">電源選單</string>
     <string name="navring_choose_action_title">選擇操作</string>
@@ -119,7 +119,7 @@
     <string name="status_bar_toggle_info">亮度自動調節需禁用</string>
     <!-- Status bar battery style selection -->
     <!-- 通知栏电池图标样式选择 -->
-    <string name="battery_style_title">電量圖標樣式</string>
+    <string name="battery_style_title">電量圖示樣式</string>
     <string name="battery_bar">條形電池</string>
     <string name="battery_bar_percent">條形電池與百分比</string>
     <string name="battery_circle">環狀電池</string>
@@ -164,7 +164,7 @@
     <!-- Volume rocker music control -->
     <!-- 音量键播放曲目调整 -->
     <string name="volbtn_music_controls_title">音樂控制</string>
-    <string name="volbtn_music_controls_summary">鎖屏時, 長按音量鍵以調整音樂曲目</string>
+    <string name="volbtn_music_controls_summary">在鎖定畫面，長按音量鍵以調整音樂曲目</string>
 
     <!-- Safe headset volume -->
     <!-- 安全耳机音量 -->
@@ -173,24 +173,24 @@
 
     <!-- Double tap to sleep settings -->
     <!-- 双击锁屏手势设置 -->
-    <string name="double_tap_sleep_settings_title">雙擊鎖屏</string>
+    <string name="double_tap_sleep_settings_title">雙擊以鎖定畫面</string>
     <string name="double_tap_sleep_glow_pad_title">解鎖環</string>
-    <string name="double_tap_sleep_glow_pad_summary">雙擊解鎖環鎖屏</string>
+    <string name="double_tap_sleep_glow_pad_summary">雙擊解鎖環以鎖定畫面</string>
     <string name="double_tap_sleep_pattern_title">解鎖圖案</string>
-    <string name="double_tap_sleep_pattern_summary">雙擊解鎖圖案任意位置鎖屏</string>
+    <string name="double_tap_sleep_pattern_summary">雙擊解鎖圖案任意位置以鎖定畫面</string>
     <string name="double_tap_sleep_pin_password_title">PIN和密碼</string>
-    <string name="double_tap_sleep_pin_password_summary">雙擊密碼輸入框鎖屏</string>
+    <string name="double_tap_sleep_pin_password_summary">雙擊密碼輸入框以鎖定畫面</string>
     <string name="double_tap_sleep_status_bar_title">狀態列</string>
-    <string name="double_tap_sleep_status_bar_summary">雙擊狀態列任意位置鎖屏</string>
+    <string name="double_tap_sleep_status_bar_summary">雙擊狀態列任意位置以鎖定畫面</string>
 
     <!-- Lockscreen targets customization -->
     <!-- 个性化锁屏目标 -->
-    <string name="lockscreen_targets_info">拖曳滑塊來指定快捷方式</string>
+    <string name="lockscreen_targets_info">拖曳滑塊來指定捷徑</string>
     <string name="lockscreen_targets_title">鎖屏滑塊</string>
-    <string name="lockscreen_targets_reset">鎖屏滑塊恢復至默認</string>
-    <string name="lockscreen_targets_reset_message">刪除所有用戶創建的鎖屏快捷方式並恢復至默認？</string>
+    <string name="lockscreen_targets_reset">鎖屏滑塊還原至預設值</string>
+    <string name="lockscreen_targets_reset_message">刪除所有用戶創建的鎖定畫面捷徑並還原至預設值？</string>
     <string name="lockscreen_targets_empty">空</string>
-    <string name="lockscreen_targets_edit_title">編輯快捷方式和圖示</string>
+    <string name="lockscreen_targets_edit_title">編輯捷徑和圖示</string>
     <string name="lockscreen_targets_edit_msg">選擇或更改所期望的應用程式或活動和相關的圖示</string>
 
     <!-- Lockscreen targets icon picker -->
@@ -202,7 +202,7 @@
     <string name="profile_applist_title">應用程式</string>
     <string name="picker_activities">活動</string>
     <string name="select_custom_app_title">選擇自定義應用程式</string>
-    <string name="select_custom_activity_title">選擇自定義活動</string>
+    <string name="select_custom_activity_title">選擇自訂活動</string>
     <string name="icon_picker_choose_icon_title">選擇圖示</string>
     <string name="icon_picker_alarm">鬧鈴</string>
     <string name="icon_picker_browser">流覽器</string>
@@ -220,11 +220,11 @@
     <string name="icon_picker_maps">地圖</string>
     <string name="icon_picker_movie">電影</string>
     <string name="icon_picker_music">音樂</string>
-    <string name="icon_picker_nav_normal">導航</string>
+    <string name="icon_picker_nav_normal">導覽</string>
     <string name="icon_picker_phone">電話</string>
     <string name="icon_picker_podcast">播客</string>
     <string name="icon_picker_rss">訂閱</string>
-    <string name="icon_picker_search">搜索</string>
+    <string name="icon_picker_search">搜尋</string>
     <string name="icon_picker_sms">簡訊</string>
     <string name="icon_picker_twitter">推特</string>
 
@@ -233,11 +233,11 @@
     <string name="notification_settings_category_title">通知設定</string>
     <!-- LED customization -->
     <!-- LED个性化 -->
-    <string name="notification_led_settings_title">LED 通知燈</string>
+    <string name="notification_led_settings_title">LED通知燈</string>
     <string name="edit_light_settings">LED設定</string>
     <string name="pulse_speed_title">脈衝長度和速度</string>
     <string name="default_time">正常</string>
-    <string name="custom_time">自定義</string>
+    <string name="custom_time">自訂</string>
     <string name="dialog_test">測試</string>
     <string name="dialog_delete_title">刪除</string>
     <string name="dialog_delete_message">移除所選項目？</string>
@@ -248,13 +248,13 @@
     <string name="notification_light_general_title">常規</string>
     <string name="notification_light_applist_title">應用程式</string>
     <string name="notification_light_phonelist_title">電話</string>
-    <string name="notification_light_use_custom">使用自定義值</string>
-    <string name="notification_light_default_value">默認</string>
+    <string name="notification_light_use_custom">使用自訂值</string>
+    <string name="notification_light_default_value">預設</string>
     <string name="notification_light_enabled">啟用</string>
     <string name="notification_light_disabled">禁用</string>
     <string name="notification_light_missed_call_title">未接來電</string>
     <string name="notification_light_voicemail_title">語音信箱</string>
-    <string name="notification_light_choose_app">選擇應用</string>
+    <string name="notification_light_choose_app">選擇應用程式</string>
     <string name="notification_light_add">添加</string>
     <!-- Values for LED pulse spinners -->
     <!-- LED闪烁调节的值 -->
@@ -277,22 +277,22 @@
 
     <!-- Recent panel -->
     <!-- 最近应用面板 -->
-    <string name="recent_panel_settings_title">多任務面板</string>
+    <string name="recent_panel_settings_title">多工作面板</string>
     <string name="recent_panel_expanded_mode_title">展開模式</string>
     <string name="recent_panel_expanded_mode_summary">最近任務預覽的展開模式</string>
-    <string name="recent_panel_expanded_mode_auto">自動(默認)</string>
+    <string name="recent_panel_expanded_mode_auto">自動（預設）</string>
     <string name="recent_panel_expanded_mode_always">總是展開</string>
     <string name="recent_panel_expanded_mode_never">總是折疊</string>
     <string name="recent_panel_scale_title">尺寸</string>
-    <string name="recent_panel_scale_summary">多任務面板大小的百分比</string>
-    <string name="recent_panel_100">100% (默認)</string>
+    <string name="recent_panel_scale_summary">多工作面板大小的百分比</string>
+    <string name="recent_panel_100">100%（預設）</string>
     <string name="recent_panel_85">85%</string>
     <string name="recent_panel_70">70%</string>
 
     <!-- ATTENTION: RTL languages need to replace left with right -->
     <!-- 注意: 从右向左的语言需要替换左为右 -->
     <string name="recent_panel_lefty_mode_title">左利手模式</string>
-    <string name="recent_panel_lefty_mode_summary">多任務面板顯示於左側</string>
+    <string name="recent_panel_lefty_mode_summary">多工作面板顯示於左側</string>
 
     <!-- Increasing ringtone -->
     <!-- 渐强铃声 -->
@@ -315,7 +315,7 @@
 
     <!-- Longpress back button to kill foreground app -->
     <!-- 长按返回键杀掉前台应用 -->
-    <string name="kill_app_longpress_back">返回長按殺應用</string>
+    <string name="kill_app_longpress_back">長按返回殺掉應用程式</string>
     <string name="kill_app_longpress_back_summary">長按返回鍵將殺掉前臺應用程式</string>
 
     <!-- Main settings screen, setting title for the user to go into the About phone/tablet screen -->
@@ -331,7 +331,7 @@
     <!-- Low battery indicator -->
     <!-- 低电量提示 -->
     <string name="battery_prefs_title">選項</string>
-    <string name="battery_stats_title">數據</string>
+    <string name="battery_stats_title">資料</string>
     <string name="pref_low_battery_warning_policy_title">低電量警告</string>
     <string name="pref_low_battery_warning_policy_dialog_title">低電量的警告形式爲</string>
     <string name="low_battery_warning_policy_popup_sound">彈窗 + 提示音</string>
