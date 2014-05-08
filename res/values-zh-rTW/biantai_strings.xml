@@ -173,15 +173,15 @@
 
     <!-- Double tap to sleep settings -->
     <!-- 双击锁屏手势设置 -->
-    <string name="double_tap_sleep_settings_title">雙擊以鎖定畫面</string>
+    <string name="double_tap_sleep_settings_title">雙擊以鎖定螢幕</string>
     <string name="double_tap_sleep_glow_pad_title">解鎖環</string>
-    <string name="double_tap_sleep_glow_pad_summary">雙擊解鎖環以鎖定畫面</string>
+    <string name="double_tap_sleep_glow_pad_summary">雙擊解鎖環以鎖定螢幕</string>
     <string name="double_tap_sleep_pattern_title">解鎖圖案</string>
-    <string name="double_tap_sleep_pattern_summary">雙擊解鎖圖案任意位置以鎖定畫面</string>
+    <string name="double_tap_sleep_pattern_summary">雙擊解鎖圖案任意位置以鎖定螢幕</string>
     <string name="double_tap_sleep_pin_password_title">PIN和密碼</string>
-    <string name="double_tap_sleep_pin_password_summary">雙擊密碼輸入框以鎖定畫面</string>
+    <string name="double_tap_sleep_pin_password_summary">雙擊密碼輸入框以鎖定螢幕</string>
     <string name="double_tap_sleep_status_bar_title">狀態列</string>
-    <string name="double_tap_sleep_status_bar_summary">雙擊狀態列任意位置以鎖定畫面</string>
+    <string name="double_tap_sleep_status_bar_summary">雙擊狀態列任意位置以鎖定螢幕</string>
 
     <!-- Lockscreen targets customization -->
     <!-- 个性化锁屏目标 -->
